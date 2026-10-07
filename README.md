@@ -6,8 +6,7 @@ frontend Mentor é uma plataforma que oferece desafios de programação front en
 <img width="374" height="808" alt="projeto_pronto_mobile" src="https://github.com/user-attachments/assets/bc80223a-f827-4daf-b080-dca67d9edeca" />
 
 ### O que aprendi.
-Nesse pequeno e primeiro projeto, tive um pouco de dificuldade no inicio, quando precicei possicionar o card principal, mas, após algumas tentativa aqui, 
-e utilizando o flexbox, consegui finalizar o posicionamento do mesmo. No demais foi super tranquilo. 
+Nesse pequeno e primeiro projeto, tive um pouco de dificuldade no inicio, quando precisei posicionar o card principal, mas, após algumas tentativa e utilizando o flexbox, consegui finalizar o posicionamento do mesmo. No demais foi super tranquilo. 
 
 
 
